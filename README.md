@@ -31,7 +31,6 @@ My name is Adithiya Venkatakrishnan. I like making applications and websites.
 - I don't make a lot of commits because I don't like committing broken code 💀
 - I'm also interested in cybersecurity, mainly on linux
 - I like to learn new things all the time, so I'm trying to learn Obj-C and Rust later
-- Look back for my website later, it's being programmed right now 💀
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomtables&theme=onedark&rank=SECRET,AA,A&margin-w=15" alt="atomtables" /></a> 
