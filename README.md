@@ -1,7 +1,7 @@
 # Hi! I'm atomtables
 My name is Adithiya Venkatakrishnan. I like making applications and websites.
 
-[atomtables.github.io](atomtables.github.io)
+[atomtables.dev](atomtables.dev)
 
 <p>
   <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="48" height="48">
