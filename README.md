@@ -27,7 +27,7 @@ My name is Adithiya Venkatakrishnan. I like making applications and websites.
 
 - I love coding for the devices I have
 - I primarily use Swift, Python, and JS/HTML/CSS
-- Check out [DiscordForMac](https://github.com/atomtables/DiscordForMac) and [XcodeRPC](https://github.com/atomtables/XcodeRPC) (it's what im working on rn)
+- Check out [NetworkOS](https://github.com/atomtables/NetworkOS) and [XcodeRPC](https://github.com/atomtables/XcodeRPC) (it's what im working on rn)
 - I don't make a lot of commits because I don't like committing broken code 💀
 - I'm also interested in cybersecurity, mainly on linux
 - I like to learn new things all the time, so I'm trying to learn Obj-C and Rust later
