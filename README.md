@@ -3,28 +3,6 @@ My name is Adithiya Venkatakrishnan. I like making applications and websites.
 
 GO HERE --> [atomtables.dev](https://atomtables.dev)
 
-<p>
-  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="48" height="48">
-  <img src="https://developer.apple.com/swift/images/swift-og.png" width="48" height="48">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48">
-  <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" width="48" height="48">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="48" height="48">
-  <img src="https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg" width="48" height="48">
-  <img src="https://logo.clearbit.com/tailwindcss.com" width="48" height="48">
-  <img src="https://logo.clearbit.com/getbootstrap.com" width="48" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48">
-  <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="48" height="48">
-  <img src="https://rafaelmartinez.gallerycdn.vsassets.io/extensions/rafaelmartinez/svelte-preview/2.7.1/1708372404714/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48">
-  <img src="https://tiermaker.com/images/chart/chart/programming-language-984582/nasmpng.png" width="48" height="48">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png" width="48" height="48">
-  <img src="https://avatars.githubusercontent.com/u/84764158?v=4" width="48" height="48">
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" width="48" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/768px-Ghidra_logo.svg.png" width="48" height="48">
-  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" width="48" height="48">
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="48" height="48">
-  <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" width="48" height="48">
-</p>
-
 - I love coding for the devices I have
 - I primarily use Swift, Python, and JS/HTML/CSS
 - Check out [NetworkOS](https://github.com/atomtables/NetworkOS) and [XcodeRPC](https://github.com/atomtables/XcodeRPC) (it's what im working on rn)
